@@ -24,7 +24,7 @@
    Classification and assessment of model performance. Linear regression: retraining and regularization.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #linear-regression #regression #ridge-regression #lasso-regression
-
+<!--
 5. https://github.com/OleksaSolo/ds_learn_with_teacher
 
    Algorithms of learning with a teacher. The method of support vectors - Support Vector Machine, SVM. Decision trees - RandomForestClassifier, XGBClassifier.
@@ -72,3 +72,5 @@
    Foundations NLP.
 
    #python #data-science #nlp #spacy #nltk #nlp-machine-learning #spacy-nlp #nlp-spacy #nltk-tokenizer
+
+   -->
