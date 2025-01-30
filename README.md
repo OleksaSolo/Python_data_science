@@ -24,6 +24,7 @@
    Classification and assessment of model performance. Linear regression: retraining and regularization.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #linear-regression #regression #ridge-regression #lasso-regression
+   
 <!--
 5. https://github.com/OleksaSolo/ds_learn_with_teacher
 
