@@ -25,14 +25,13 @@
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #scikit-learn #linear-regression #regression #ridge-regression #lasso-regression
    
-<!--
-
-
 5. https://github.com/OleksaSolo/ds_learn_with_teacher
 
    Algorithms of learning with a teacher. The method of support vectors - Support Vector Machine, SVM. Decision trees - RandomForestClassifier, XGBClassifier.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #classification #svm-model #svm-classifier #random-forest-classifier #XGBClassifier
+
+<!--
 
 6. https://github.com/OleksaSolo/ds_learn_without_teacher
 
