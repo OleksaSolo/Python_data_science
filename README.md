@@ -31,16 +31,16 @@
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #classification #svm-model #svm-classifier #random-forest-classifier #XGBClassifier
 
-<!--
-
-
-
-
 6. https://github.com/OleksaSolo/ds_learn_without_teacher
 
    Learning without a teacher. Clustering. KMeans. Principal Component Analysis.
 
    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #scikit-learn #pca #kmeans #kmeans-clustering #silhouette #tsne #kmeans-clustering #optics-clustering #dbscan-clustering #opentsne #hdbscan-clustering
+   
+<!--
+
+
+
 
 7. https://github.com/OleksaSolo/ds_recommend_systems
 
